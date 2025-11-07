@@ -143,6 +143,18 @@
     "Surviving a Plane Crash in a Remote Location",
     "Uncovering the Secrets of a Vanished Civilization"
   ],
+  "genrePremises_isekai": [
+    "A Hero Summoned to Save a Fantasy World",
+    "Reincarnation as a Villainous Noble",
+    "A Gamer Trapped in Their Favorite RPG",
+    "Transported to Another World with a Cheat Skill",
+    "Building a New Life in a Primitive World",
+    "Waking Up as a Lowly Slime or Monster",
+    "Living as an Ordinary Merchant in a Magical Land",
+    "Using Modern Knowledge to Change the Past",
+    "Dying and Being Reborn as a Baby in a Royal Family",
+    "Accidentally Summoning Another Person to the New World"
+  ],
   "genreRoles_beastiality": [
     "Animal Companion",
     "Animal Communicator",
@@ -413,5 +425,22 @@
     "Survivalist",
     "Treasure Hunter",
     "Wilderness Expert"
+  ],
+  "genreRoles_isekai": [
+    "Summoned Hero",
+    "Reincarnated God",
+    "Villainous Noble",
+    "Magical Swordsman",
+    "Overpowered Mage",
+    "Lowly Slime",
+    "Healer",
+    "Apothecary",
+    "Craftsman",
+    "Demon Lord",
+    "Dragon Rider",
+    "Merchant",
+    "Guild Master",
+    "Princess",
+    "Saintess"
   ]
 }
