@@ -4,12 +4,12 @@
     "A Human Transforms into an Animal",
     "A Society Where Animals and Humans Coexist",
     "An Animal Guides a Human on a Journey",
-    "An Ancient Ritual to Become One with Nature",
-    "Cross-Species Communication Discovery",
     "Exploring a World of Hybrid Creatures",
     "Falling in Love with a Non-Human",
     "Finding a Lost Animal Companion",
-    "Human and Animal Soul Bonding"
+    "Protecting an Endangered Species",
+    "The Secret Life of a Shapeshifter",
+    "Training a Mythical Beast"
   ],
   "genrePremises_drugs": [
     "A Dealer Seeking Redemption",
@@ -18,10 +18,10 @@
     "A New Drug Hits the Streets",
     "A Scientist Developing a Cure",
     "An Underworld of Smugglers",
-    "Breaking Free from Substance Abuse",
-    "Experimenting with Mind-Altering Drugs",
     "Fighting a Drug Epidemic",
-    "Living in a Drug-Fueled Utopia"
+    "Living in a Drug-Fueled Utopia",
+    "Manufacturing a Dangerous Substance",
+    "Running from the Cartel"
   ],
   "genrePremises_fantasy": [
     "A Quest to Find a Lost Artifact",
@@ -29,11 +29,11 @@
     "An Apprentice Magician Rebels Against Their Master",
     "Defending a Kingdom from an Ancient Evil",
     "Discovering a Hidden Magical World",
-    "Finding the Source of a Magical Plague",
     "Forging a Legendary Weapon",
-    "Infiltrating a Cult of Dark Worshippers",
-    "Mastering a Newly Acquired Power",
-    "Uniting Warring Kingdoms"
+    "Learning the Language of Dragons",
+    "Traveling Across Dimensions",
+    "Uniting Warring Kingdoms",
+    "Waking a Sleeping God"
   ],
   "genrePremises_gore": [
     "A Battle with Unimaginable Violence",
@@ -41,107 +41,107 @@
     "A Gruesome Murder Investigation",
     "A Ritual of Blood Sacrifice",
     "A Serial Killer on the Loose",
-    "A Torture Chamber Escape",
     "An Autopsy Reveals Horrors",
-    "Battling Hordes of the Undead",
     "Body Horror Transformation",
-    "Consuming Human Flesh"
+    "Consuming Human Flesh",
+    "Living Through a Massacre",
+    "Witnessing a Brutal Execution"
   ],
   "genrePremises_horror": [
     "A Group of Friends Trapped in a Cave",
+    "A Ship Crew Finds a Mysterious Organism",
     "Being Stalked by a Mysterious Creature",
     "Breaking a Demonic Curse",
-    "Dealing with a Poltergeist in a New Home",
     "Escaping a Deranged Serial Killer",
     "Fighting for Survival in a Deserted City",
-    "Finding an Otherworldly Portal",
     "Hiding from a Creature That Hunts by Sound",
-    "Surviving a Haunted House",
-    "Uncovering a Small Town's Dark Secret"
+    "Surviving a Nightmare That Becomes Real",
+    "Uncovering a Small Town's Dark Secret",
+    "Waking Up with Amnesia in a Strange Place"
   ],
   "genrePremises_incest": [
     "A Forbidden Relationship Between Siblings",
     "A Family Secret Revealed",
     "A Love That Should Not Exist",
     "A Mother's Dark Desire",
-    "A Twisted Family Dynamic",
     "An Affair Between Father and Daughter",
     "Breaking Free from Familial Abuse",
     "Consequences of Taboo Love",
     "Coping with Incestuous Trauma",
-    "Discovering a Hidden Relationship"
-  ],
-  "genrePremises_isekai": [
-    "A Game World Becomes Reality",
-    "A Hero is Accidentally Summoned to Another World",
-    "A Person is Reborn as a Monster",
-    "A Person is Reincarnated as a Background Character",
-    "A Student Wakes Up as a Villainess in an Otome Game",
-    "Dying and Waking Up in a Fantasy World",
-    "Fighting for Survival in a Deserted Other World",
-    "Gaining an Overpowered Skill Set",
-    "Living a Slow Life in a Magical Land",
-    "Returning to the Real World with New Powers"
+    "Exposing a Family's Shame",
+    "Uncovering a History of Incest"
   ],
   "genrePremises_mystery": [
     "A Journalist Investigates a Political Scandal",
-    "A Museum Curator Solves an Art Heist",
     "A Private Investigator Searches for a Missing Heiress",
-    "A Rookie Detective Uncovers a Major Ring",
-    "An Internet Sleuth Solves a Decades-Old Crime",
     "Clearing an Innocent Person's Name",
     "Discovering the Identity of a Spy",
-    "Exposing a Secret Society",
-    "Solving a Murder Mystery",
-    "Uncovering a Corporate Conspiracy"
+    "Finding a Stolen Treasure",
+    "Infiltrating a Corrupt Organization",
+    "Solving a Cold Case",
+    "Tracking Down a Missing Person",
+    "Uncovering a Government Cover-Up",
+    "Unraveling a Smuggling Operation"
   ],
   "genrePremises_romance": [
     "A Chef Finds Love with a Food Critic",
     "A Forbidden Love Between Rivals",
-    "A Group of Friends Become More Than Friends",
-    "A Holiday Fling Turns into True Love",
-    "A Journalist Falls for the Subject of a Story",
     "A Love Triangle Between Two Friends",
-    "An Enemies to Lovers Story",
+    "A Royal Falls for a Commoner",
+    "An Enemies-to-Lovers Story",
     "Falling for a Best Friend",
-    "Finding Love in a Coffee Shop",
-    "Reconnecting with a Childhood Crush"
+    "Hiding a Relationship from Everyone",
+    "Navigating a Long-Distance Relationship",
+    "Second Chance Romance with an Ex",
+    "The CEO Falls for the Assistant"
   ],
   "genrePremises_science_fiction": [
     "A Scientist Travels Back in Time by Mistake",
     "An Android Gains Self-Awareness",
     "Colonizing a Distant Star System",
-    "Discovering a Parallel Universe",
+    "Defending Earth Against a Second Invasion",
     "Escaping a Dystopian Society",
     "Fighting an Alien Invasion",
-    "Living in a Virtual Reality World",
     "Preventing a Robot Uprising",
     "Time Traveling to Fix the Future",
+    "Traveling Through a Wormhole",
     "Uncovering a Military Secret on Mars"
   ],
   "genrePremises_slice-of-life": [
     "A Beginner Learns to Cook from a Master",
     "A Group of Friends Opens a Small Business",
-    "Adjusting to a Major Life Change",
+    "A Writer Struggles with Writer's Block",
     "Coping with a Personal Loss",
     "Finding Joy in Everyday Moments",
+    "Juggling Work and Family Responsibilities",
     "Learning a New Skill",
-    "Making Amends with a Friend",
-    "Navigating the Challenges of College Life",
-    "Starting a New Job",
-    "The Journey of Self Discovery"
+    "Making New Friends",
+    "The Process of Writing a First Novel",
+    "Traveling Alone for the First Time"
   ],
   "genrePremises_NSFW": [
     "A Forbidden Romance Between Teacher and Student",
     "Exploring Dark Fantasies in a Secret Club",
     "A Journey Through Taboo Desires",
+    "Surviving in an Underground Pleasure Den",
     "The Dark Side of a Dystopian Society",
-    "A Cults Ritualistic Practices",
     "Explicit Encounters in a Haunted Mansion",
     "A World Where Pleasure is Currency",
-    "The Corruption of Innocence",
-    "Exploring the Depths of Depravity",
-    "A Dominance and Submission Relationship"
+    "A Tale of Seduction and Betrayal",
+    "A Relationship Built on Kink",
+    "A World Without Sexual Taboos"
+  ],
+  "genrePremises_adventure": [
+    "A Race to Uncover a Hidden Treasure",
+    "A Solo Journey Through the Wilderness",
+    "A Team Explores an Uncharted Island",
+    "A Voyage Across a Treacherous Ocean",
+    "Exploring an Ancient Ruin in the Jungle",
+    "Finding a Way Out of a Massive Underground Maze",
+    "Infiltrating an Enemy Fortress to Rescue a Comrade",
+    "Mapping an Unexplored Cave System",
+    "Surviving a Plane Crash in a Remote Location",
+    "Uncovering the Secrets of a Vanished Civilization"
   ],
   "genreRoles_beastiality": [
     "Animal Companion",
@@ -263,23 +263,6 @@
     "Stepson",
     "Survivor",
     "Victim"
-  ],
-  "genreRoles_isekai": [
-    "Reincarnated Person",
-    "Summoned Hero",
-    "Transferred Student",
-    "Adventurer",
-    "Overpowered Mage",
-    "Monster Lord",
-    "Villainess",
-    "Game Master",
-    "Guild Receptionist",
-    "Shopkeeper",
-    "Sage",
-    "Former Office Worker",
-    "Healer",
-    "Blacksmith",
-    "Demon King"
   ],
   "genreRoles_mystery": [
     "Art Forgery Expert",
@@ -411,5 +394,24 @@
     "Pleasure Architect",
     "Sensory Deprivation Expert",
     "Pleasure Experiment Subject"
+  ],
+  "genreRoles_adventure": [
+    "Archaeologist",
+    "Cartographer",
+    "Deep Sea Diver",
+    "Explorer",
+    "Guide",
+    "Hiker",
+    "Jungle Tracker",
+    "Mountaineer",
+    "Navigator",
+    "Pilot",
+    "Pioneer",
+    "Pirate",
+    "Relic Hunter",
+    "Sailor",
+    "Survivalist",
+    "Treasure Hunter",
+    "Wilderness Expert"
   ]
 }
