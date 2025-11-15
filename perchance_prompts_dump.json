@@ -1,3 +1,4 @@
 {
-  "nsfw_handler": "((NSFW))"
+  "nsfw_handler": "((NSFW))",
+  "formatting_handler": "(USE BASIC VOCABULARY; BASIC SENTENCE OR DIALOGUE CONSTRUCTION; DO NOT USE: EM DASH, COLON, SEMI-COLON, NUMBERED OR BULLETED LISTS)"
 }
